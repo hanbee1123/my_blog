@@ -1,6 +1,8 @@
-## IGNORE FILES ##
+## IGNORE Directories ##
 
 /__pycache__
 /lib
 /bin
+
+## IGNORE Virtual Environment ##
 pyvenv.cfg

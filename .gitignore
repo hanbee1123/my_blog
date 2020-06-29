@@ -1,4 +1,6 @@
-__pycache__
-lib
-bin
+## IGNORE FILES ##
+
+/__pycache__
+/lib
+/bin
 pyvenv.cfg
